@@ -39,10 +39,10 @@ Monday, June 8, 2026
 * 09:00 AM – 09:45 AM o Meet the new cohort
 * 09:45 AM – 10:30 AM o Introduction to Machine Learning; A Miller [[notebook](Day1/IntroductionToMachineLearning.ipynb)]
 * 10:30 AM – 11:00 AM o BREAK
-* 11:00 AM – 12:00 PM o Problem: Introduction to Machine Learning; A Miller [[notebook](Day1/IntroToScikitLearn.ipynb) | [solutions](Day1/IntroToScikitLearnSolutions.ipynb)]
+* 11:00 AM – 12:00 PM o [[Problem](Day1/IntroToScikitLearn.ipynb)|[Solution](Day1/IntroToScikitLearnSolutions.ipynb)] Introduction to Machine Learning; A Miller
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Introduction to Supervised Learning; R Morgan [[notebook](Day1/SupervisedML.ipynb)]
-* 02:30 PM – 04:00 PM o Problem: Introduction to Supervised Learning; R Morgan [[notebook](Day1/SupervisedMLProblems.ipynb) | [solutions](Day1/SupervisedMLSolutions.ipynb)]
+* 02:30 PM – 04:00 PM o [[Problem](Day1/SupervisedMLProblems.ipynb)|[Solution](Day1/SupervisedMLSolutions.ipynb)] Introduction to Supervised Learning; R Morgan
 * 04:00 PM – 04:30 PM o BREAK
 * 04:30 PM – 06:00 PM o Building a Perceptron from Scratch; A Miller [[notebook](Day1/BuildingPerceptronsForClassification.ipynb) | [solutions](Day1/BuildingPerceptronsForClassificationSolutions.ipynb)]
 
@@ -50,15 +50,15 @@ Monday, June 8, 2026
 
 Tuesday, June 9, 2026
 
-* 09:00 AM – 10:00 AM o Going Deep: An Introduction to Convolutional Neural Networks; R Morgan
+* 09:00 AM – 10:00 AM o Going Deep: An Introduction to Convolutional Neural Networks; R Morgan [[notebook](Day2/IntroductionToDeepLearning.ipynb)]
 * 10:00 AM – 10:30 AM o BREAK
-* 10:30 AM – 12:00 PM o Problem: Convolutional Neural Networks; R Morgan
+* 10:30 AM – 12:00 PM o [[Problem](Day2/DeepLearningProblems.ipynb)|[Solution](Day2/DeepLearningSolutions.ipynb)] Convolutional Neural Networks; R Morgan
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o Introduction to Clustering; A Miller
-* 02:30 PM – 03:30 PM o Problem: Introduction to Clustering; A Miller
+* 01:30 PM – 02:30 PM o Introduction to Clustering; A Miller [[notebook](Day2/IntroductionToUnsupervisedLearning.ipynb)]
+* 02:30 PM – 03:30 PM o [[Problem](Day2/Clustering.ipynb)|[Solution](Day2/ClusteringSolutions.ipynb)] Introduction to Clustering; A Miller
 * 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM – 05:00 PM o Recurrent Neural Networks and Transformers; I Ciuca
-* 05:00 PM – 06:00 PM o Problem: RNNs and Transformers; I Ciuca
+* 04:00 PM – 05:00 PM o Recurrent Neural Networks and Transformers; I Ciuca [[notebook](Day2/Tutorial_attention_and_transformer.ipynb)]
+* 05:00 PM – 06:00 PM o [[Problem](Day2/Tutorial_attention_and_transformer.ipynb)|Solution] RNNs and Transformers; I Ciuca
 
 ## Day 3 – Large Language Models
 
@@ -66,7 +66,7 @@ Wednesday, June 10, 2026
 
 * 09:00 AM – 10:00 AM o Large Language Models; I Ciuca
 * 10:00 AM – 10:30 AM o BREAK
-* 10:30 AM – 12:00 PM o Problem: Large Language Models; I Ciuca
+* 10:30 AM – 12:00 PM o [[Problem](Day3/Tutorial_Finetuning_IC.ipynb)|Solution] Large Language Models; I Ciuca
 * 12:00 PM – ??:?? PM o AFTERNOON BREAK
 
 ## Day 4 – Domain Adaptation and Representation Learning
